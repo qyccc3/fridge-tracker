@@ -1,0 +1,9 @@
+description = "default configuration file that provides a good starting point"
+
+[server]
+port = 3000 # the port used by the service
+
+[db]
+host = "dpg-cl5b6fl6fh7c73ek3f70-a.oregon-postgres.render.com"  
+name = "refridgedb"
+port = 5432
