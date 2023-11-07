@@ -1,0 +1,9 @@
+description = "default configuration file that provides a good starting point"
+
+[server]
+port = 3000 # the port used by the service
+
+[db]
+host = "localhost"  
+name = "refridgedb"
+port = 5432
