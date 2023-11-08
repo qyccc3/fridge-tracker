@@ -5,5 +5,5 @@ port = 3000 # the port used by the service
 
 [db]
 host = "dpg-cl5b6fl6fh7c73ek3f70-a"  
-name = "refridgedb"
+name = "fridgedb"
 port = 5432
